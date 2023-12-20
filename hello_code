@@ -1,7 +1,0 @@
-public class java
-{
-public static void main (Strind[] args )
-{ 
-  System.out.println("Hello world")
-}
-}
