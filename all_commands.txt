@@ -1,0 +1,189 @@
+    1  clear
+    2  mkdir script
+    3  ls
+    4  cd scripts
+    5  cd script
+    6  vim 
+    7  whoami
+    8  clear
+    9  clear
+   10  cd scripts
+   11  cd script
+   12  vim chatur.sh
+   13  ./chatur.sh
+   14  chmod 600 chatur.sh
+   15  ./chatur.sh
+   16  bash chatur.sh
+   17  ls -l chatur.sh
+   18  chmod 700 chatur.sh
+   19  ls
+   20  ./chatur.sh
+   21  vim chatur.sh
+   22  clear
+   23  vim create _user.sh
+   24  bash create.sh
+   25  vim create_user.sh
+   26  chmod 700 creae_user.sh
+   27  chmod 700 create_user.sh
+   28  ./create.sh
+   29  ./create_user.sh
+   30  vim create_user.sh
+   31  ./create_user.sh
+   32  vim create_user.sh
+   33  ./create_user.sh
+   34  vim create_user.sh
+   35  ./create_user.sh
+   36  cat /etc/passwd
+   37  clear
+   38  su raju 
+   39  clear
+   40  vim create_user.sh
+   41  ./create_user.sh
+   42  vim create_user.sh
+   43  ./create_user.sh
+   44  vim create_user.sh
+   45  ./create_user.sh
+   46  clear
+   47  cat create_user.sh
+   48  clear
+   49  whoami
+   50  clar
+   51  clear
+   52  vim create_user.sh
+   53  cear
+   54  clear
+   55  clear
+   56  ls
+   57  cd script
+   58  vim create_user.sh
+   59  ls
+   60  cd script
+   61  vim user_management.sh
+   62  ./user_management.sh
+   63  ./user_management.sh c
+   64  ./user_management.sh d
+   65  clear
+   66  ./user_management.sh d
+   67  cat user_management.sh 
+   68  clear
+   69  vim user_management.sh
+   70  ./user_management.sh 
+   71  ls
+   72  clear
+   73  vimm backup.sh
+   74  vim backup.sh
+   75  clear
+   76  cd script
+   77  ls
+   78  ls -l
+   79  vim backup.sh
+   80  cd ..
+   81  ls
+   82  mkdir backups
+   83  ls
+   84  cd backups
+   85  pws
+   86  pwd
+   87  cd ..
+   88  cd scripts
+   89  cd script
+   90  pwd
+   91  ./backup.sh /home/ubuntu/script/home/ubuntu/backups
+   92  ./backup.sh /home/ubuntu/script  /home/ubuntu/backups
+   93  cd ..
+   94  cd backups
+   95  ls
+   96  cd ..
+   97  clear
+   98  cd script
+   99  vim backup.sh
+  100  ./ backup.sh /home/ubuntu/script /home/ubuntu/backup
+  101  ./backup.sh /home/ubuntu/script /home/ubuntu/backup
+  102  vim backup.sh
+  103  ./backup.sh /home/ubuntu/script /home/ubuntu/backup
+  104  vim backup.sh
+  105  ./backup.sh /home/ubuntu/script /home/ubuntu/backup
+  106  cd ..
+  107  ls
+  108  cd script
+  109  ./backup.sh /home/ubuntu/script /home/ubuntu/backups
+  110  vim backup.sh
+  111  ./backup.sh /home/ubuntu/script /home/ubuntu/backups
+  112  vim backup.sh
+  113  ls
+  114  ./backup.sh /home/ubuntu/script /home/ubuntu/backups
+  115  clear
+  116  cd ..
+  117  cd backups
+  118  ls
+  119  ls -t
+  120  ls -t | head -5
+  121  touch lol.txt
+  122  ls -t | head -5
+  123  ls -t backup_* 
+  124  ls -t backup_* | head -5
+  125  cd ..
+  126  cd scripts
+  127  cd script
+  128  vim backup.sh
+  129  clear
+  130  cd scripts
+  131  cd script
+  132  vim backup.sh
+  133  ./backup.sh /home/ubuntu/script /home/ubuntu/backups
+  134  exit
+  135  clear
+  136  clearf
+  137  clear
+  138  git --version
+  139  ls
+  140  mkdir git
+  141  cd git
+  142  mkdir devops-project-batch-7
+  143  ls
+  144  mkdir devops-practice-project
+  145  ls
+  146  clear
+  147  ls
+  148  cd git
+  149  ls
+  150  clear
+  151  cd git
+  152  ls
+  153  devops-project-batch-7
+  154  cd devops-project-batch-7
+  155  git config
+  156  git config --global user.name "Tarunkhokher1997"
+  157  git config --global user.email "khokhertarun@gmail.com"
+  158  git status
+  159  cd git
+  160  ls
+  161  cd devops-project-batch-7
+  162  git log
+  163  touch file1.txt
+  164  touch file3.txt
+  165  git status
+  166  git add file1.txt
+  167  git add file3.txt
+  168  git status
+  169  git commit -m "fixes"
+  170  git status
+  171  git log
+  172  clear
+  173  git log --onelone
+  174  git log --oneline
+  175  ls
+  176  cd git
+  177  ls
+  178  git clone git@github.com:tarunsgithub/java.git
+  179  clear
+  180  ls
+  181  cd java
+  182  ls
+  183  vim demo.txt
+  184  git status
+  185  git add demo.txt
+  186  git commit -m "new file"
+  187  gti status
+  188  git status
+  189  history>all_commands.txt
